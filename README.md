@@ -26,7 +26,7 @@ Follow these steps to set up and run the project locally:
 1. **Clone the Repository**  
    Run the following command to clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/deepanshu7539/PDF-Browser-Application.git>
    cd pdf-browser
 2. **Install Dependencies**
 Install all necessary packages by running:
